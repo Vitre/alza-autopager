@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Alza.cz autopager
 // @namespace   http://www.alza.cz
-// @description Automatické načítání stránek katalogu
+// @description alza.cz catalog autopager
 // @include     http*://www.alza.cz/*
 // @include     http*://www.kleopatra.cz/*
 // @include     http*://www.hracky.cz/*
