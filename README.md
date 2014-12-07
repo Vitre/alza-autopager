@@ -1,2 +1,2 @@
-alza.cz autopager
+Alza.cz autopager
 -----------------
