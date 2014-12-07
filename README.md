@@ -1,5 +1,7 @@
 Alza.cz autopager
------------------
+=================
+
+Alza.cz autopager userscript
 
 ### Install
 
